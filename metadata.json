@@ -1,0 +1,5 @@
+{
+  "name": "Viral Post Generator",
+  "description": "An AI-powered tool to generate viral post ideas for various social media platforms. Users can input a topic, target platform, audience, and desired emotion to receive three unique post drafts complete with text, hashtags, and an AI analysis of its viral potential.",
+  "requestFramePermissions": []
+}
